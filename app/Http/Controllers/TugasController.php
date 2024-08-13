@@ -144,7 +144,7 @@ class TugasController extends Controller
             'status' => $request->status ? $request->status : $tugas->status,
         ]);
 
-        return $this->format(200, true, $tugas, 'Update Pengguna Tugas');
+        return $this->format(200, true, $tugas, 'Update Tugas Successfuly');
     }
 
     /**
