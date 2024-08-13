@@ -14,7 +14,7 @@ Akun employee
 Email : user@gmail.com
 Password : user@gmail.com
 
-Silakan migration and run seeder untuk mengambil data dummy ada project ini
+Silakan migration and run seeder untuk mengambil data dummy dari project ini
 
 Recuitmen to run project
 1. Pengguna hanya bisa di get oleh role manajer
